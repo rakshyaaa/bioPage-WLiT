@@ -22,15 +22,15 @@ body {
 #image-card p{
     text-align: center;
 }
+
 .head-item{
-    margin :5%
+    margin: 5%
 }
 
 #image-div {
     background-color: #dbd3d8;
     flex-grow: 2;
     flex-shrink: 1;
-
 }
 
 #image-card {
@@ -58,7 +58,8 @@ body {
 }
 
 #about-me {
-    padding: 30px 50px;
+    padding: 30px 90px;
+    background-color: #d77a61;
 }
 
 #bio{
